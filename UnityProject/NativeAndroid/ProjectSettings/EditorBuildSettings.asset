@@ -6,6 +6,6 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/LuviKunG/NativeAndroid/Scenes/Example.unity
+    path: Assets/LuviKunG/NativeAndroid/Examples/Scenes/Example.unity
     guid: 15beac9c4cdfa434bb1f4eb0068c9a2d
   m_configObjects: {}

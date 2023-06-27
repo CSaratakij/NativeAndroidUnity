@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<dependencies>
+    <androidPackages>
+        <androidPackage spec="androidx.appcompat:appcompat:1.6.1" />
+        <androidPackage spec="androidx.appcompat:appcompat-resources:1.6.1" />
+        <androidPackage spec="androidx.core:core-ktx:1.8.0" />
+    </androidPackages>
+</dependencies>
