@@ -1,0 +1,3 @@
+[submodule "AndroidProject/AndroidNativePlugins"]
+	path = AndroidProject/AndroidNativePlugins
+	url = https://github.com/CSaratakij/AndroidNativePlugins.git
