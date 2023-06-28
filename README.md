@@ -6,4 +6,5 @@
 2) Put '.aar' to 'PluginName/Android/Plugings/libs'
 3) Convert to EDM package
 4) Enable 'Custom Main Gradle Template' in Unity PlayerSetting
-5) Force resolve jar package with EDM
+5) Enable 'Custom Gradle Properties Template' in Unity PlayerSetting & add enable 'androidx & jetifier'
+6) Force resolve jar package with EDM
